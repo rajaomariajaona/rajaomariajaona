@@ -3,7 +3,6 @@
     <p align=center>  
       My name is Jaona Rajaomaria, I'm `fullstack developer`
     <p>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
     <p align=center>  <strong>
     <img src='https://komarev.com/ghpvc/?username=rajaomariajaona&color=008080'>
     </strong> <p>
